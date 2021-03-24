@@ -12,7 +12,7 @@
   </main>
 
   <footer class="footer">
-    <?php if($page->is(page('photography'))): ?>
+    <?php if($page->isHomePage()): ?>
       <div class="grid">
         <div class="column" style="--columns: 8">
           <?= $page->description()->kt() ?>

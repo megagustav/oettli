@@ -26,7 +26,8 @@ tabs:
   # More about columns:
   # https://getkirby.com/docs/guide/blueprints/layout#defining-columns
 
-  home:
+  projects:
+    icon: image
     # Here we define an info section and a pages section (`photography`)
     sections:
 
