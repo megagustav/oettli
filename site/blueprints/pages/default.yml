@@ -7,5 +7,5 @@ icon: 📝
 
 tabs:
   content: tabs/content
-  # meta: tabs/meta
+  meta: tabs/meta
   seo: tabs/seo
