@@ -1,0 +1,25 @@
+Title: Contact
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["studio.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"831bd0f3-e0d7-468f-8517-a1c7eae3aa4c","isHidden":false,"type":"image"}],"id":"2fd74161-fb11-4d29-ba34-d6b37c22c847","width":"1\/1"}],"id":"b8b14a84-21f6-4882-a82c-4aff6340e749"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"<strong>Oliver Oettli Photography GmbH<\/strong>"},"id":"a63f8eb9-c4fa-4d82-bd45-d48bb7591ff4","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mattenstrasse 165<br>2503 Biel<br>Schweiz<\/p><p>fon: +41 32 322 77 68<br>cell: +41 78 891 56 90<br><a href=\"mailto:oliver@oliveroettli.ch\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">oliver@oliveroettli.ch<\/a><\/p>"},"id":"f64547b4-f842-4cf4-a327-2c9ada262eaf","isHidden":false,"type":"text"}],"id":"39134696-e723-4972-9309-245fcb80ad3e","width":"1\/4"},{"blocks":[{"content":{"level":"h2","text":"<strong>Shanghai represented by:<\/strong>"},"id":"28435347-2c8c-43ce-aabc-bb94f100340e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Rose Li<br>No. 633, Changde Lu, House 120<br>200060 Shanghai, China<\/p><p>tel: +86 138 1638 9434&nbsp; &nbsp;<br><a href=\"mailto:rose.li@lightandmotion.tv\" rel=\"noopener noreferrer nofollow\">rose.li@lightandmotion.tv<\/a><\/p>"},"id":"eaecee9c-4680-4bca-8c72-2a98d7e666bd","isHidden":false,"type":"text"}],"id":"6ebab3a3-24d5-49e5-b7a6-7afaa4915925","width":"1\/4"},{"blocks":[{"content":{"text":"<iframe src=\"https:\/\/snazzymaps.com\/embed\/299964\" width=\"100%\" height=\"600px\" style=\"border:none;\"><\/iframe>"},"id":"103b084d-d15a-4278-955f-3504e70ba058","isHidden":false,"type":"markdown"}],"id":"3ed3568f-742b-4385-a0ca-f1863c9b8d74","width":"1\/4"},{"blocks":[{"content":{"text":"<iframe src=\"https:\/\/snazzymaps.com\/embed\/299970\" width=\"100%\" height=\"600px\" style=\"border:none;\"><\/iframe>"},"id":"893bf175-8a90-4953-b18c-636556223330","isHidden":false,"type":"markdown"}],"id":"5b971b7a-1a8a-474b-8c48-8fa14e5750b9","width":"1\/4"}],"id":"c0ea8260-1dda-49f3-b184-6db4a963a792"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Tags: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

@@ -1,0 +1,16 @@
+# /site/blueprints/blocks/spacer.yml
+name: Spacer
+icon: expand
+
+fields:
+  spacing:
+    label: Spacing
+    type: range
+    name: Spacer
+    step: 1
+    min: -30
+    default: 0
+    max: 30
+    help: Standard is 0.<br>Negative values will overlap with the image above it.
+    tooltip:
+      after: em

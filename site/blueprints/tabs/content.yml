@@ -13,24 +13,29 @@ fields:
       - "1/2, 1/4, 1/4"
       - "1/2, 1/2"
       - "1/4, 1/4, 1/4, 1/4"
-  type: blocks
-  fieldsets:
-    text:
-      label: Text
-      type: group
-      fieldsets:
-        - heading
-        - text
-        - list
-    media:
-      label: Media
-      type: group
-      fieldsets:
-        - image
-        - video
-    code:
-      label: Code
-      type: group
-      fieldsets:
-        - code
-        - markdown
+    fieldsets:
+      text:
+        label: Primary Blocks
+        type: group
+        fieldsets:
+          - heading
+          - text
+          - image
+          - spacer
+      media:
+        label: Secondary Blocks
+        type: group
+        open: true
+        fieldsets:
+          - video
+          - list
+          - code
+          - markdown
+    # settings:
+    #   fields:
+    #     class:
+    #       type: text
+    #       width: 1/2
+    #     id:
+    #       type: text
+    #       width: 1/2

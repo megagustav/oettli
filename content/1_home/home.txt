@@ -1,0 +1,48 @@
+Title: Portfolio
+
+----
+
+Description: Oliver Oettli ist Fotograf und Creative Director für Portrait, Corporate &amp; Storytelling und arbeitet in Bern, Zürich, Basel, der ganzen Schweiz sowie im Rest der Welt — oder in seinem Studio in Biel. Er inszeniert in kleineren Einsätzen sowie in grösseren Projekten Portraits, Editorials, Geschäftsberichte und Bildwelten für Firmen, Magazine und Persönlichkeiten. Nachhaltige Bilder in bester Qualität und zu fairen Preisen.&nbsp;<br><br><em>Oliver Oettli is a creative director and photographer for Portrait &amp; Corporate based in Switzerland and Shanghai. He specializes in portraits, editorials, corporate and image worlds for companies, magazines and personalities. Sustainable Swiss Quality with international flair.</em>
+
+----
+
+Address: Oliver Oettli Photography GmbH<br>Mattenstrasse 165<br>2503 Biel
+
+----
+
+Email: look@oliveroettli.ch
+
+----
+
+Phone: +41 32 322 77 68
+
+----
+
+Cell: +41 78 891 56 90
+
+----
+
+Social:
+
+- 
+  platform: Facebook
+  url: >
+    https://www.facebook.com/oliveroettliphotography
+- 
+  platform: Instagram
+  url: https://www.instagram.com/oliveroettli
+- 
+  platform: LinkedIn
+  url: https://vimeo.com/oliveroettli
+- 
+  platform: Vimeo
+  url: >
+    https://www.linkedin.com/in/oliveroettli/
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

@@ -12,6 +12,7 @@
   --color-text: var(--color-black);
   --color-text-grey: var(--color-grey);
   --color-background: var(--color-white);
+  --color-oettli:           #a38671;
   --color-code-light-grey:  #cacbd1;
   --color-code-comment:     #a9aaad;
   --color-code-white:       #c5c9c6;
@@ -22,14 +23,52 @@
   --color-code-aqua:        #8abeb7;
   --color-code-blue:        #7e9abf;
   --color-code-purple:      #b294bb;
-  --font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family-sans: Walsheim, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+@font-face {
+  font-family: Walsheim;
+  src: url('../typography/GTW-Regular.woff2') format('woff2'),
+       url('../typography/GTW-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Walsheim;
+  src: url('../typography/GTW-Bold.woff2') format('woff2'),
+       url('../typography/GTW-Bold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Walsheim;
+  src: url('../typography/GTW-Regular-Oblique.woff2') format('woff2'),
+       url('../typography/GTW-Regular-Oblique.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Walsheim;
+  src: url('../typography/GTW-Bold-Oblique.woff2') format('woff2'),
+       url('../typography/GTW-Bold-Oblique.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
 }
 
 html {
   font-family: var(--font-family-sans);
   color: var(--color-text);
   background: var(--color-background);
+  -moz-font-feature-settings:"kern" 1;
+  -ms-font-feature-settings:"kern" 1;
+  -o-font-feature-settings:"kern" 1;
+  -webkit-font-feature-settings:"kern" 1;
+  font-feature-settings:"kern" 1;
+  font-kerning: normal;
 }
 img {
   width: 100%;
@@ -94,11 +133,14 @@ small {
   display: flex;
 }
 .menu a {
-  padding: 1.84rem 1rem 0rem;
+  padding: 2rem 1rem 0rem;
   display: block;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.07rem;
 }
 .menu a[aria-current] {
-  text-decoration: underline;
+  color: var(--color-oettli);
 }
 
 .social {
@@ -122,6 +164,18 @@ small {
 }
 .grid > .column {
   margin-bottom: var(--gutter);
+}
+
+.album section .column {
+  max-width: 35rem;
+}
+.album section .column:first-child:not([style*="--columns:12"]) {
+  margin-right: 0;
+  margin-left: auto;
+}
+.album section .column[style*="--columns:12"] {
+  max-width: 71.5rem;
+  margin: 0 auto;
 }
 
 .autogrid {
@@ -329,9 +383,6 @@ hr {
 .footer li.social {
   padding: 0;
 }
-.footer li.social.minimal {
-  margin-top: 1rem;
-}
 .footer li.social a {
   padding: 0 .5rem 0 0;
 }
@@ -345,6 +396,12 @@ hr {
 }
 .footer p {
   max-width: 50rem;
+}
+.minimal ul {
+  min-width: 20rem;
+}
+.footer .minimal li.social {
+  margin-top: 1rem;
 }
 .footer a:hover {
   color: var(--color-text);

@@ -12,7 +12,7 @@
   </main>
 
   <footer class="footer">
-    <?php if($page->isHomePage()): ?>
+    <?php if($page->is(page('photography'))): ?>
       <div class="grid">
         <div class="column" style="--columns: 8">
           <?= $page->description()->kt() ?>
@@ -49,10 +49,13 @@
         </div>
       </div>
     <?php else: ?>
-      <div class="grid">
+      <div class="grid minimal">
           <ul>
-            <li><?= $site->author() ?></li>
-            <li class="social minimal">
+            <li>
+              <?= $site->author() ?> Photography <br />
+              Bern | Basel | Zurich | Shanghai
+            </li>
+            <li class="social">
               <a href="https://www.facebook.com/oliveroettliphotography">
                 <i class="fab fa-lg fa-facebook-square"></i>
               </a>

@@ -84,4 +84,4 @@
     </nav>
   </header>
 
-  <main class="main">
+  <main class="main <?= $page->template() ?> <?= $page->title() ?>">
