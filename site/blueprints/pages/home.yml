@@ -1,0 +1,43 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Home
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 🏠
+
+# Page options allow you to control how users can interact with the page.
+# Here we prevent changing the page status (the home page cannot be renamed or deleted by default)
+# More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
+options:
+  changeStatus: false
+
+# We use tabs here to focus on the layout in one tab
+# and have the additional contact fields in a secondary
+# tab. Tabs can really help to clean up the interface
+# when it otherwise gets too complicated
+tabs:
+  # The contact tab pre-defines a set of address
+  # fields for the contact box at the bottom of the about
+  # page. Combining modular content from layouts with
+  # pre-defined content from such fields is a great way to
+  # offer flexibility and yet keep certain constraints.
+  #
+  # The form layout is created with two columns,
+  # each column has a set of fields
+  # More about columns:
+  # https://getkirby.com/docs/guide/blueprints/layout#defining-columns
+
+  home:
+    # Here we define an info section and a pages section (`photography`)
+    sections:
+
+    # The photography section extends a pages section defined in the `/site/blueprints/section/album.yml` blueprint
+    # More about reusing and extending sections: https://getkirby.com/docs/guide/blueprints/extending-blueprints#reusing-and-extending-sectionss
+      photography:
+        headline: Projects
+        extends: sections/albums
+        status: listed
+        size: small
+        help: All projects for the homepage are being pulled from the portfolio page.
+
+  contact: tabs/contact
+  seo: tabs/seo

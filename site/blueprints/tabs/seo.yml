@@ -1,0 +1,15 @@
+label: SEO
+icon: search
+fields:
+	seoTitle:
+		label: SEO Title
+		type: text
+		counter: true
+		placeholder: "{{ site.title }} | {{ page.title }}"
+		help: Leave empty to use the default *{{ site.title }} | {{ page.title }}*. <br>Sweet spot is 50 to 60 characters, or 600px. <a target="_blank" href="https://moz.com/learn/seo/title-tag">Why?</a>
+	seoDescription:
+		label: SEO Description
+		type: text
+		placeholder: "None"
+		help: Sweet spot is 50 to 160 characters.
+		counter: true

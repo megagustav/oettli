@@ -1,0 +1,42 @@
+icon: map
+label: Contact
+columns:
+  - width: 1/2
+    # Kirby has many different field types, from simple text fields to the more complex structure field that contains subfields
+    # All available field types: https://getkirby.com/docs/reference/panel/fields
+    fields:
+      description:
+        label: Description
+        type: writer
+        inline: true
+  - width: 1/2
+    fields:
+      address:
+        label: Address
+        type: writer
+        inline: true
+      email:
+        label: Email
+        type: email
+      phone:
+        label: Phone
+        before: "tel:"
+        type: tel
+      cell:
+        label: Cell
+        before: "cell:"
+        type: tel
+      social:
+        label: Social Media
+        type: structure
+        columns:
+          platform: true
+        fields:
+          platform:
+            label: Platform
+            type: text
+            width: 1/2
+          url:
+            label: URL
+            type: url
+            width: 1/2

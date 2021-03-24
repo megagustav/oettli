@@ -1,0 +1,52 @@
+Title: About
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["oliveroettli.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"3060ae88-bf3a-4dab-87e9-58e924ddff3f","isHidden":false,"type":"image"}],"id":"1abc2d2b-7606-4570-9922-4bb622d11d18","width":"1\/3"},{"blocks":[{"content":{"level":"h2","text":"<strong>pers\u00f6nlichkeit, authentizit\u00e4t und nachhaltigkeit<\/strong>"},"id":"503887d0-0145-4832-a5c7-20fb41b63da0","isHidden":false,"type":"heading"},{"content":{"text":"<p>1977 in Bern geboren. Seit 2005 ist Oliver Oettli als selbst\u00e4ndiger Fotograf, Creative Director und Regisseur f\u00fcr Corporate Kunden, Magazine und eigene Projekte t\u00e4tig.<\/p><p>Nachdem er als Projektleiter einer Ideenfabrik und einer Webagentur auf Kundenseite gestanden hat, so hilft ihm heute sein Erfahrungsschatz um direkter und n\u00e4her ans Ziel zu kommen.<\/p><p>Seit seiner Jugend lebt er in Biel und profitiert so von schnellen Wegen zu seinen Projekten in der ganzen Schweiz. Er liebt das Reisen und spricht vier Sprachen (Deutsch, Englisch, Franz\u00f6sisch und Mongolisch).<\/p><p>Oliver ist Purist. Seine Aufnahmen sind ehrlich, direkt und nat\u00fcrlich. Dies, sowie seine Faszination f\u00fcr Menschen und Geschichten sind der Grund weshalb KMUs aber auch Konzerne wie Ernst &amp; Young, Swatch Group, Axpo oder Raiffeisen mit ihm arbeiten.<\/p><p>Er steht f\u00fcr kurze Eins\u00e4tze \u201eon short notice\u201c sowie gr\u00f6ssere und l\u00e4ngerfristige Projekte zur Verf\u00fcgung. Unterst\u00fctzt wird er bei Bedarf von einem eingespielten Produktionsteam mit ausgew\u00e4hlten Freelancern. Dabei verteidigt er die Werte, nachhaltige Bilder in top Qualit\u00e4t und einem fairen Preis zu liefern.&nbsp;<\/p>"},"id":"c8fa3fb5-37f5-4a20-acb8-f1cde13807b9","isHidden":false,"type":"text"}],"id":"3fde96c9-d527-4901-9439-3791c4734251","width":"1\/3"},{"blocks":[],"id":"8a1e3ba3-a160-428e-aff2-350df5f24af1","width":"1\/3"}],"id":"20f75ece-9668-429a-b1ba-1e636748e699"},{"attrs":[],"columns":[{"blocks":[],"id":"4744cac2-52ae-40f0-a0b4-af0d6581f747","width":"1\/3"},{"blocks":[{"content":{"level":"h2","text":"services"},"id":"e7b0cef7-7080-4e43-a656-14ea8d850bd6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Konzeption und Creative Direction<\/p><p>Pre-Production<\/p><p>Fotografie &amp; Video<\/p><p>Shootings, Reportagen, Drohnenaufnahmen<\/p><p>Post-Production, Retusche, Compositing, Colorgrading, Schnitt<\/p><p>Wir verstehen uns als Full Service Agentur f\u00fcr Bildaufnahmen.<\/p><p>Kleinere Eins\u00e4tze machen wir selbst. F\u00fcr gr\u00f6ssere Projekte arbeiten wir mit erfahrenen Freelancern zusammen.<\/p>"},"id":"2ab6ff81-77d7-46ee-81e8-6102a257d8a8","isHidden":false,"type":"text"}],"id":"401d934a-48c5-4a57-8207-acd887bf354e","width":"2\/3"}],"id":"af560a11-bf3d-42af-bbb3-ae399cd5d754"},{"attrs":[],"columns":[{"blocks":[],"id":"8db17f92-67a3-4d2e-9ff1-bcb4b038595d","width":"1\/3"},{"blocks":[{"content":{"level":"h2","text":"<strong>milestones<\/strong>"},"id":"2f215466-f9a5-4534-8946-612b1449bc90","isHidden":false,"type":"heading"},{"content":{"text":"<p>2020: Buchver\u00f6ffentlichung: Shanghai Huangpu River - ISBN: 978-3-033-07670-9<\/p><p>2018: Residence Artist f\u00fcr Swatch Group im Swatch Art Peace Hotel, Shanghai (Juni - August)<\/p><p>2017: Hasselblad Selected Profiles \u2013 Photo17 Z\u00fcrich<\/p><p>2016: Werkschau Bern \u2013 Kornhausforum<\/p><p>2007 bis 2015: Photo07 \u2013 Photo15 in Z\u00fcrich<\/p><p>2013: Luzern &amp; Basel \u2013 Projekt Last Nomads<\/p><p>2012: Hongkong \u2013 Gruppenausstellung mit Projekt Puderzucker<\/p><p>2010: Wanderausstellung in Biel, Lyss, Bern<\/p>"},"id":"36285a73-740b-4d8a-a507-51babdb757da","isHidden":false,"type":"text"}],"id":"1f8400fd-172d-47bf-86c7-011ecd5492b9","width":"2\/3"}],"id":"968bd0ae-7df5-403a-abcd-d7ceabb8c7c8"}]
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Address: Mægazine Inc. <br>Sesamestreet 1 <br>Gotham City <br>USA
+
+----
+
+Email: mail@maegazine.com
+
+----
+
+Phone: +49 1234 5678
+
+----
+
+Social:
+
+- 
+  platform: Twitter
+  url: https://twitter.com/getkirby
+- 
+  platform: Instagram
+  url: https://instagram.com/getkirby
+- 
+  platform: Discord
+  url: https://chat.getkirby.com
+
+----
+
+Text: <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.</p>
+
+----
+
+Contact:
+
+Kirby Magazine Inc.
+Sesamestreet 1
+Gotham City
+USA

@@ -1,0 +1,9 @@
+icon: cog
+label: meta
+
+fields:
+  date:
+    type: date
+    time: true
+    default: now
+ tags: true
