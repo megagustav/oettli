@@ -48,7 +48,7 @@
   */
   ?>
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
-  <script src="https://kit.fontawesome.com/9645547402.js" crossorigin="anonymous"></script>
+
 </head>
 <body>
 

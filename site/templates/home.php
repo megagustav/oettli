@@ -19,20 +19,12 @@
 */
 ?>
 <?php snippet('header') ?>
-  <?php // snippet('intro') ?>
-  <?php
-  /*
-    We always use an if-statement to check if a page exists to
-    prevent errors in case the page was deleted or renamed before
-    we call a method like `children()` in this case
-  */
-  ?>
   <?php if ($projectsPage = page('projects')): ?>
   <ul class="home-grid">
     <?php foreach ($projectsPage->children()->listed() as $album): ?>
-    <li>
+    <li class="item">
       <a href="<?= $album->url() ?>">
-        <figure>
+        <figure class="content">
           <?php
           /*
             The `cover()` method defined in the `album.php`
