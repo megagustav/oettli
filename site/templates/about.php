@@ -29,20 +29,20 @@
   <div class="grid" style="--gutter: 1.5rem">
     <section class="column text" style="--columns: 4">
       <h3>Address</h2>
-      <?= $page->address()->kt() ?>
+      <?= page('home')->address()->kt() ?>
     </section>
     <section class="column text" style="--columns: 4">
       <h3>Email</h3>
-      <p><?= html::email($page->email()) ?></p>
+      <p><?= html::email(page('home')->email()) ?></p>
       <h3>Tel</h3>
-      <p><?= html::tel($page->phone()) ?></p>
+      <p><?= html::tel(page('home')->phone()) ?></p>
       <h3>Cell</h3>
-      <p><?= html::tel($page->phone()) ?></p>
+      <p><?= html::tel(page('home')->cell()) ?></p>
     </section>
     <section class="column text" style="--columns: 4">
       <h3>Social Media</h2>
       <ul>
-        <?php foreach ($page->social()->toStructure() as $social): ?>
+        <?php foreach (page('home')->social()->toStructure() as $social): ?>
         <li><?= html::a($social->url(), $social->platform()) ?></li>
         <?php endforeach ?>
       </ul>

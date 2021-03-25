@@ -31,9 +31,9 @@ tabs:
     # Here we define an info section and a pages section (`photography`)
     sections:
 
-    # The photography section extends a pages section defined in the `/site/blueprints/section/album.yml` blueprint
+    # The projects section extends a pages section defined in the `/site/blueprints/section/album.yml` blueprint
     # More about reusing and extending sections: https://getkirby.com/docs/guide/blueprints/extending-blueprints#reusing-and-extending-sectionss
-      photography:
+      projects:
         headline: Projects
         extends: sections/albums
         status: listed

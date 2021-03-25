@@ -1,0 +1,39 @@
+Title: Kettler – Aquarower 7000
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https:\/\/vimeo.com\/524322139","caption":null},"id":"a3fb0813-e810-4385-99fe-5565391e4267","isHidden":false,"type":"video"}],"id":"eb773c0c-4b8b-447b-8656-bb2dfecfeaa6","width":"1\/1"}],"id":"9e720da1-da7f-4021-b57a-30c4ba54c501"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Lorem ipsum...<\/p>"},"id":"d404538d-491d-4b36-a6b0-bc38c29ef4e6","isHidden":false,"type":"text"}],"id":"afbd1ff5-8da5-48f9-a5df-9c8d6a89e4f4","width":"1\/1"}],"id":"f8a005a4-97e1-4c69-90ea-a4a8c2a89cd9"}]
+
+----
+
+Cover:
+
+- aquarower_small.m4v
+
+----
+
+Date: 
+
+----
+
+Tags: desert, sand, landscape
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: It's pretty hot
+
+----
+
+Text: <p>Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p><p>Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Curabitur blandit tempus porttitor.</p>

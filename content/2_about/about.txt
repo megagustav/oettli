@@ -6,23 +6,19 @@ Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image
 
 ----
 
-Seotitle: 
+Address: Oliver Oettli Photography GmbH<br>Mattenstrasse 165<br>2503 Biel
 
 ----
 
-Seodescription: 
+Email: look@oliveroettli.ch
 
 ----
 
-Address: Mægazine Inc. <br>Sesamestreet 1 <br>Gotham City <br>USA
+Phone: +41 32 322 77 68
 
 ----
 
-Email: mail@maegazine.com
-
-----
-
-Phone: +49 1234 5678
+Cell: 
 
 ----
 
@@ -37,6 +33,14 @@ Social:
 - 
   platform: Discord
   url: https://chat.getkirby.com
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
