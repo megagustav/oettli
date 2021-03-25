@@ -13,7 +13,7 @@ return [
 
 return [
     'panel' =>[
-        'install' => true
+        'install' => true,
     ]
 ];
 
