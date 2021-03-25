@@ -2,13 +2,17 @@ Title: Kettler – Aquarower 7000
 
 ----
 
-Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https:\/\/vimeo.com\/524322139","caption":null},"id":"a3fb0813-e810-4385-99fe-5565391e4267","isHidden":false,"type":"video"}],"id":"eb773c0c-4b8b-447b-8656-bb2dfecfeaa6","width":"1\/1"}],"id":"9e720da1-da7f-4021-b57a-30c4ba54c501"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Lorem ipsum...<\/p>"},"id":"d404538d-491d-4b36-a6b0-bc38c29ef4e6","isHidden":false,"type":"text"}],"id":"afbd1ff5-8da5-48f9-a5df-9c8d6a89e4f4","width":"1\/1"}],"id":"f8a005a4-97e1-4c69-90ea-a4a8c2a89cd9"}]
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https:\/\/vimeo.com\/524322139","caption":"Kettler<br>"},"id":"a3fb0813-e810-4385-99fe-5565391e4267","isHidden":false,"type":"video"}],"id":"eb773c0c-4b8b-447b-8656-bb2dfecfeaa6","width":"1\/1"}],"id":"9e720da1-da7f-4021-b57a-30c4ba54c501"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Lorem ipsum...<\/p>"},"id":"d404538d-491d-4b36-a6b0-bc38c29ef4e6","isHidden":false,"type":"text"}],"id":"afbd1ff5-8da5-48f9-a5df-9c8d6a89e4f4","width":"1\/1"}],"id":"f8a005a4-97e1-4c69-90ea-a4a8c2a89cd9"},{"attrs":[],"columns":[{"blocks":[{"content":{"url":"https:\/\/www.youtube.com\/watch?v=G68Q4lCM5pQ","caption":"Youtube embed video is only as wide as the captionm wtf?"},"id":"9f127ea5-9574-47a6-a4fe-71f277bc9ae7","isHidden":false,"type":"video"}],"id":"69f58850-b999-48f6-bb5b-45272d35c851","width":"2\/3"},{"blocks":[],"id":"087cf7cd-be16-41b5-8b13-ee1850ca638e","width":"1\/3"}],"id":"51739c92-3320-4d77-a3a6-a42edcfbefba"}]
 
 ----
 
 Cover:
 
 - aquarower_small.m4v
+
+----
+
+Spacing: 2
 
 ----
 

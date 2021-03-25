@@ -26,7 +26,8 @@ RewriteEngine on
 # except for the .well-known folder, which is used for Let's Encrypt and security.txt
 RewriteRule (^|/)\.(?!well-known\/) index.php [L]
 
-# block all files in the content folder from being accessed directly
+# block all files except videos in the content folder from being accessed directly
+RewriteRule !^content/(.*).(mp4|mov|m4v|webm|ovg) - [C]
 RewriteRule ^content/(.*) index.php [L]
 
 # block all files in the site folder from being accessed directly

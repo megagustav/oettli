@@ -12,6 +12,10 @@ Cover:
 
 ----
 
+Spacing: 0
+
+----
+
 Date: 
 
 ----

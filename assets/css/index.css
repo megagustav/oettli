@@ -142,7 +142,12 @@ small {
 .menu a[aria-current] {
   color: var(--color-oettli);
 }
-
+.menu a:first-child {
+  padding-left: 0;
+}
+.menu a:last-child {
+  padding-right: 0;
+}
 .social {
   display: flex;
   padding: 0 .5rem;

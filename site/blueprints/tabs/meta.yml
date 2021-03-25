@@ -12,10 +12,22 @@ columns:
       # If you need the same field in multiple locations, you can define them once and reuse whereever needed.
       # Here we use a files field defined in `/site/blueprints/field/cover.yml`
       cover: fields/cover
+      spacing:
+        label: Spacing
+        type: range
+        name: Spacer
+        step: 1
+        min: -30
+        default: 0
+        max: 30
+        help: Standard is 0.<br>Negative values will overlap with the image above it.
+        tooltip:
+          after: em
+
   - width: 1/2
       fields:
         date:
           type: date
           time: true
           default: now
-       tags: true
+        tags: true

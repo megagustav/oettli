@@ -6,7 +6,7 @@ type: pages
 headline: Projects
 parent: kirby.page("projects")
 size: small
-info: "{{ page.images.count }} image(s)"
+info: "{{ page.images.count }} images | {{ page.spacing }}em"
 layout: cards
 template: album
 empty: No albums yet

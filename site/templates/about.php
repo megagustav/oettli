@@ -25,8 +25,8 @@
 <?php snippet('layouts', ['field' => $page->layout()])  ?>
 
 <aside class="contact">
-  <h2 class="h1">Get in contact</h2>
-  <div class="grid" style="--gutter: 1.5rem">
+  <h2 class="h2">Contact</h2>
+  <div class="grid">
     <section class="column text" style="--columns: 4">
       <h3>Address</h2>
       <?= page('home')->address()->kt() ?>
