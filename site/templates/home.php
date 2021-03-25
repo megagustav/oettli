@@ -10,7 +10,7 @@
   method on the `$page` object, e.g. `$page->title()`.
 
   This home template renders content from others pages, the children of
-  the `photography` page to display a nice gallery grid.
+  the `projects` page to display a nice gallery grid.
 
   Snippets like the header and footer contain markup used in
   multiple templates. They also help to keep templates clean.
@@ -27,9 +27,9 @@
     we call a method like `children()` in this case
   */
   ?>
-  <?php if ($photographyPage = page('photography')): ?>
+  <?php if ($projectsPage = page('projects')): ?>
   <ul class="home-grid">
-    <?php foreach ($photographyPage->children()->listed() as $album): ?>
+    <?php foreach ($projectsPage->children()->listed() as $album): ?>
     <li>
       <a href="<?= $album->url() ?>">
         <figure>

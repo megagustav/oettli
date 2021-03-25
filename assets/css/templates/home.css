@@ -48,14 +48,23 @@
   align-items: center;
   justify-content: center;
   position: absolute;
-  color: #fff;
+  color: rgba(255,255,255,0);
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
   line-height: 1;
   text-align: center;
-  background: rgba(0,0,0, .5);
+  background: rgba(0,0,0,0);
+  transition: 0.1s;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.07rem;
+}
+.home-grid figcaption:hover {
+  color: var(--color-oettli);
+  background: rgba(255,255,255,0.95);
+  transition: 0.1s;
 }
 
 @media screen and (min-width: 45em) {
