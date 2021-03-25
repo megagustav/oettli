@@ -17,10 +17,10 @@ return [
     ]
 ];
 
-return [
-    'cache' => [
-        'pages' => [
-            'active' => true,
-        ]
-    ]
-];
+// return [
+//     'cache' => [
+//         'pages' => [
+//             'active' => true,
+//         ]
+//     ]
+// ];
