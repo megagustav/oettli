@@ -12,7 +12,15 @@ return [
 ];
 
 return [
-      'panel' =>[
+    'panel' =>[
         'install' => true
-      ]
+    ]
+];
+
+return [
+    'cache' => [
+        'pages' => [
+            'active' => true,
+        ]
+    ]
 ];
