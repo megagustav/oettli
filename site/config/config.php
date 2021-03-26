@@ -9,11 +9,8 @@
  */
 return [
     'debug' => true,
-];
-
-return [
     'panel' =>[
-        'install' => true,
+      'install' => true
     ]
 ];
 
