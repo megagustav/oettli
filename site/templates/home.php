@@ -25,7 +25,14 @@
     <li class="item" style="margin-top: <?= $album->spacing() ?>em;">
       <a href="<?= $album->url() ?>">
         <figure class="content">
-          <?php if ($cover = $album->cover()): ?>
+          <?php if ($album->downloads()->toFile()): ?>
+          echo video url <?= $album->downloads()->toFile() ?>
+            <video width="100%" height="auto" autoplay loop muted playsinline controls="true">
+              <source src="<?= $album->downloads()->toFile() ?>" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <!-- <img src="<?= $album->downloads()->toFile() ?>" /> -->
+          <?php elseif ($cover = $album->cover()): ?>
           <?= $cover->resize(1024, 1024) ?>
           <?php endif ?>
           <figcaption>

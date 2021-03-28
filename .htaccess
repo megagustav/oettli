@@ -27,7 +27,7 @@ RewriteBase /dev/oo
 RewriteRule (^|/)\.(?!well-known\/) index.php [L]
 
 # block all files except videos in the content folder from being accessed directly
-RewriteRule !^content/(.*).(mp4|mov|m4v|webm|ovg) - [C]
+#RewriteRule !^content/(.*).(mp4|mov|m4v|webm|ovg) - [C]
 RewriteRule ^content/(.*) index.php [L]
 
 # block all files in the site folder from being accessed directly

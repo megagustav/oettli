@@ -12,6 +12,7 @@
   https://getkirby.com/docs/guide/templates/snippets
 */
 ?>
+
 <?php if ($block->url()->isNotEmpty()): ?>
 <figure>
   <span class="video" style="--w:16;--h:9">
