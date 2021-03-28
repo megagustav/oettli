@@ -27,7 +27,7 @@
         <figure class="content">
           <?php if ($album->downloads()->toFile()): ?>
           echo video url <?= $album->downloads()->toFile() ?>
-            <video width="100%" height="auto" autoplay loop muted playsinline controls="true">
+            <video width="100%" height="auto" autoplay loop muted playsinline controls>
               <source src="<?= $album->downloads()->toFile() ?>" type="video/mp4">
               Your browser does not support the video tag.
             </video>
