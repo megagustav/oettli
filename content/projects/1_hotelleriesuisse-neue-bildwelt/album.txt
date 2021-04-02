@@ -1,0 +1,35 @@
+Title: Hotelleriesuisse – Neue Bildwelt
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse22.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"d5fda2c6-ba3f-4f8b-afa2-e8d2168a4201","isHidden":false,"type":"image"}],"id":"65be7da1-c22f-46ee-98b5-1aa9c2af8ef1","width":"1\/2"},{"blocks":[{"content":{"level":"h2","text":"HotellerieSuisse"},"id":"932dc6e2-7b44-46ee-a6c3-d9a061c33aba","isHidden":false,"type":"heading"},{"content":{"text":"<p>Umsetzung der neuen Bildwelt f\u00fcr den nationalen Dachverband. <br>Echte Mitarbeiter und nat\u00fcrliches Licht verleihen der gesamten Serie die gew\u00fcnschte Authentizit\u00e4t. <br>Dank der Unterst\u00fctzung des The Cambrian in Adelboden, Kemmeriboden Bad in Schangnau und Hotel Alpenblick in Bern entstand eine breite Auswahl an Motiven, welche das neue Corporate Identity visuell vervollst\u00e4ndigen.<\/p><p>Agentur: Bloom Identity Bern \/ Kunde: HotellerieSuisse<\/p><p><em>We were responsible for the new Imagery of the swiss association of hotel industry. Working with real employees and natural light allowed us to create an authentic series of moments in hotels. <br>Out location partners were The Cambrian (Adelboden), Kemmeriboden Bad (Schangnau) and Alpenblick (Bern).<\/em><\/p><p><em>Agency: Bloom Identity Bern \/ Client: HotellerieSuisse<\/em><\/p>"},"id":"9538cea5-840a-4945-8bcc-58a10c33f700","isHidden":false,"type":"text"}],"id":"824369e0-93b6-4e5d-aab0-22a6ed5f06bd","width":"1\/2"}],"id":"f97377b0-c56b-407d-b6f2-3055624b9038"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse9.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"acca95df-7e34-487d-82f2-21e2414cf5a2","isHidden":false,"type":"image"}],"id":"8e31384f-38a9-4ad9-94d2-b6f2e6a08e02","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse32.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"5de7825c-6a85-46c4-b560-9db8282879e6","isHidden":false,"type":"image"}],"id":"304c3c3d-396f-45d9-8282-89b90d539d0a","width":"1\/2"}],"id":"86a760d4-604e-49de-85e4-63a3405a7e15"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse20.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"9fc84526-65de-4efc-9bfe-937f26acddae","isHidden":false,"type":"image"}],"id":"b0260cf8-4a78-4ecd-9685-e2de62278e4f","width":"1\/1"}],"id":"da96f369-8c6c-43f9-85e8-fec7dae1cf80"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse7.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"2b087cac-6a3e-4fcf-a429-9add0e8ae3e8","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["hotellerie_suisse3.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"029ba56d-18b2-4ca9-b604-198c9ef847ec","isHidden":false,"type":"image"}],"id":"374e9d72-f452-40fe-8354-9574a7aa7f0b","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse2.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"73053cba-c29a-4273-8256-498a23db69fd","isHidden":false,"type":"image"}],"id":"9d8172b8-a157-441a-bd05-c738f4966439","width":"1\/2"}],"id":"6b5e8ffc-3641-4c0e-97fd-297790353343"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse14.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"d2fc7b88-d103-4924-ba51-402c58ae022b","isHidden":false,"type":"image"}],"id":"09127aef-e134-4d95-81a8-c3173d1e67ac","width":"1\/3"},{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse24.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"2267d974-7094-4922-915f-f17ef8bde108","isHidden":false,"type":"image"}],"id":"39b2d87c-a0ed-4fea-ad1d-17d85d85a2ed","width":"1\/3"},{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse17.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"054ea668-2562-4679-aa62-bcaf0eab6c93","isHidden":false,"type":"image"}],"id":"102f42c2-232c-4e6b-9cb7-3909e26da349","width":"1\/3"}],"id":"e0422cd7-8bf2-4d68-b207-2ffcdd8ca8c5"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse29.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"90b88e70-83db-44b2-85ef-f91f243c6fd7","isHidden":false,"type":"image"}],"id":"6d7806c6-5e5a-4e51-94bd-fb7068bc9327","width":"1\/1"}],"id":"27280513-8e5f-403f-aaa8-69b23318d15f"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse1.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"fb5d3499-30db-401f-a54c-c158264ebf39","isHidden":false,"type":"image"}],"id":"df1bead9-1676-4169-a411-88878e3d4a31","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse12.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"74ca66e3-2358-49f8-9098-ba893192a2f8","isHidden":false,"type":"image"}],"id":"0d0e4711-0546-4135-b95b-3650e21684e0","width":"1\/2"}],"id":"e57ef48c-4b8f-4bca-83bf-20259c65bc99"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse4.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"141f63d7-cc6c-401a-b937-572a188fa28e","isHidden":false,"type":"image"}],"id":"2ef97449-5adf-4d99-8507-9fe4bf744db8","width":"2\/3"},{"blocks":[],"id":"10f1f0ee-7365-4a93-887f-8f62f6d26e2b","width":"1\/3"}],"id":"464a169f-b51b-4d9b-803f-b4c15909f0b7"},{"attrs":[],"columns":[{"blocks":[],"id":"fe3e8125-4b93-4236-9660-f9dc79dabafe","width":"1\/3"},{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse21.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"426e91c5-3760-4dbe-867b-f88f02b75cd9","isHidden":false,"type":"image"}],"id":"9e3ccda7-35d7-4003-b5b6-fb1b068958db","width":"2\/3"}],"id":"161d66e0-fde3-436a-975f-6db3a5b8e163"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["hotellerie_suisse25.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"d82660bb-8550-4c77-8744-52ecbe328a5a","isHidden":false,"type":"image"}],"id":"9483c1da-bb49-49a4-8ca5-db731df49beb","width":"1\/1"}],"id":"1452de83-ffa7-45e1-b5c7-d37e57c448ec"}]
+
+----
+
+Cover:
+
+- hotellerie_suisse20-copy.jpg
+
+----
+
+Downloads: 
+
+----
+
+Width: grid-item--width2
+
+----
+
+Spacex: 0
+
+----
+
+Spacey: 0
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
