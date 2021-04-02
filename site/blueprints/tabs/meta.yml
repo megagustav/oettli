@@ -17,22 +17,44 @@ columns:
         type: files
         query: page.videos
         multiple: false
-      spacing:
-        label: Spacing
-        type: range
-        name: Spacer
-        step: 1
-        min: -30
-        default: 0
-        max: 30
-        help: Standard is 0.<br>Negative values will overlap with the image above it.
-        tooltip:
-          after: em
 
   - width: 1/2
       fields:
-        date:
-          type: date
-          time: true
-          default: now
-        tags: true
+        width:
+          label: Width on Homepage
+          type: radio
+          default: grid-item
+          help: Project will can be twice as wide as other projects on homepage.
+          options:
+            grid-item: Single
+            grid-item--width2: Double
+        spacex:
+          label: Horizontal Shift
+          type: range
+          name: Spacer
+          step: 1
+          min: -30
+          default: 0
+          max: 30
+          icon: ↔️
+          help: Shift project cover horizontally.
+          tooltip:
+            after: em
+        spacey:
+          label: Vertical Shift
+          type: range
+          name: Spacer
+          step: 1
+          min: -30
+          default: 0
+          max: 30
+          icon: ↕️
+          help: Shift project cover vertically.
+          tooltip:
+            after: em
+
+        # date:
+        #   type: date
+        #   time: true
+        #   default: now
+        # tags: true

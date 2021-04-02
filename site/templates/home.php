@@ -22,12 +22,14 @@
   <?php if ($projectsPage = page('projects')): ?>
   <ul class="home-grid">
     <?php foreach ($projectsPage->children()->listed() as $album): ?>
-    <li class="item" style="margin-top: <?= $album->spacing() ?>em;">
+    <!-- <li class="grid-item" style="margin-top: <?= $album->spacey() ?>em; margin-left: <?= $album->spacex() ?>em;"> -->
+    <div class="grid-sizer"></div>
+    <div class="gutter-sizer"></div>
+    <li class="grid-item <?= $album->width() ?>">
       <a href="<?= $album->url() ?>">
         <figure class="content">
           <?php if ($album->downloads()->toFile()): ?>
-          echo video url <?= $album->downloads()->toFile() ?>
-            <video width="100%" height="auto" autoplay loop muted playsinline controls>
+            <video width="100%" height="auto" autoplay loop muted playsinline>
               <source src="<?= $album->downloads()->toFile() ?>" type="video/mp4">
               Your browser does not support the video tag.
             </video>

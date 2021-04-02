@@ -75,18 +75,15 @@
   </footer>
 
   <script src="https://kit.fontawesome.com/9645547402.js" crossorigin="anonymous"></script>
-  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 
   <?= js([
   'assets/js/prism.js',
   'assets/js/lightbox.js',
+  'assets/js/masonry.pkgd.min.js',
+  'assets/js/imagesloaded.pkgd.min.js',
   'assets/js/index.js',
   '@auto'
 ]) ?>
-  <script>
-    window.onload = resizeAllGridItems();
-    window.addEventListener("resize", resizeAllGridItems);
-  </script>
 
 </body>
 </html>

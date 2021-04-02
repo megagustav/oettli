@@ -6,30 +6,17 @@ Array.from(document.querySelectorAll("[data-lightbox]")).forEach(element => {
   };
 });
 
-//https://medium.com/@andybarefoot/a-masonry-style-layout-using-css-grid-8c663d355ebb
-// resize individual grid items
-function resizeGridItem(item){
-   grid = document.getElementsByClassName("home-grid")[0];
-   rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
-   rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
-   rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
-   item.style.gridRowEnd = "span "+rowSpan;
-}
-// resize all grid items
-function resizeAllGridItems(){
-   allItems = document.getElementsByClassName("item");
-   for(x=0;x<allItems.length;x++){
-      resizeGridItem(allItems[x]);
-   }
-}
+var grid = new Masonry( '.home-grid', {
+  // set itemSelector so .grid-sizer is not used in layout
+  itemSelector: '.grid-item',
+  // use element for option
+  columnWidth: '.grid-sizer',
+  gutter: '.gutter-sizer',
+  percentPosition: true,
+  transitionDuration: '0.2s',
+  //stagger: '0.03s'
+})
 
-// passes the individual grid item on to our already existing resizeGridItem function.
-allItems = document.getElementsByClassName("item");
-for(x=0;x<allItems.length;x++){
-   imagesLoaded( allItems[x], resizeInstance);
-}
-// when all the images have finished loading within a grid item it is resized to ensure that the content is still fully displayed.
-function resizeInstance(instance){
-   item = instance.elements[0];
-   resizeGridItem(item);
-}
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry('layout');
+});

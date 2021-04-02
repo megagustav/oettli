@@ -16,6 +16,26 @@ Downloads:
 
 ----
 
+Width: grid-item--width2
+
+----
+
+Spacey: 4
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Class: grid-item--width2
+
+----
+
 Spacing: 2
 
 ----
@@ -25,14 +45,6 @@ Date:
 ----
 
 Tags: desert, sand, landscape
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
 
 ----
 
