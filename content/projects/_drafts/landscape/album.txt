@@ -2,9 +2,37 @@ Title: Landscape
 
 ----
 
+Layout: []
+
+----
+
 Cover:
 
 - that-green-looks-fake.jpg
+
+----
+
+Downloads: 
+
+----
+
+Width: grid-item
+
+----
+
+Spacex: 0
+
+----
+
+Spacey: 6
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 

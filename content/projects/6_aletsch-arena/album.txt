@@ -16,15 +16,15 @@ Downloads:
 
 ----
 
-Spacex: 4
+Width: grid-item
 
 ----
 
-Spacey: -2
+Spacex: 0
 
 ----
 
-Class: 
+Spacey: 0
 
 ----
 
@@ -33,6 +33,10 @@ Seotitle:
 ----
 
 Seodescription: 
+
+----
+
+Class: 
 
 ----
 

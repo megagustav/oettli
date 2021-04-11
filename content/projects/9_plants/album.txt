@@ -12,6 +12,22 @@ Cover:
 
 ----
 
+Downloads: 
+
+----
+
+Width: grid-item--width2
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
 Spacing: 7
 
 ----
@@ -21,14 +37,6 @@ Date:
 ----
 
 Tags: plants
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
 
 ----
 

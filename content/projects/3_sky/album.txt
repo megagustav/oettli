@@ -12,6 +12,22 @@ Cover:
 
 ----
 
+Downloads: 
+
+----
+
+Width: grid-item--width2
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
 Spacing: 5
 
 ----
@@ -21,14 +37,6 @@ Date:
 ----
 
 Tags: stars, universe, up there
-
-----
-
-Seotitle: 
-
-----
-
-Seodescription: 
 
 ----
 

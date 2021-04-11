@@ -2,7 +2,37 @@ Title: Waterfalls
 
 ----
 
-Cover: - the-fall-is-lava.jpg
+Layout: []
+
+----
+
+Cover:
+
+- the-fall-is-lava.jpg
+
+----
+
+Downloads: 
+
+----
+
+Width: grid-item
+
+----
+
+Spacex: 0
+
+----
+
+Spacey: 3
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 

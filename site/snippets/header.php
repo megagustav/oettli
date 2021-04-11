@@ -37,6 +37,7 @@
     'assets/css/prism.css',
     'assets/css/lightbox.css',
     'assets/css/index.css',
+    'assets/css/hamburgers.min.css',
     '@auto'
   ]) ?>
 
@@ -64,7 +65,14 @@
       <?= svg('assets/icons/oo_logo.svg') ?>
     </a>
 
-    <nav class="menu">
+    <button class="hamburger hamburger--minus hamburger--accessible" type="button" aria-label="Menu" aria-controls="navigation">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+      <!-- <span class="hamburger-label">Menu</span> -->
+    </button>
+
+    <nav class="menu menu-nav">
       <?php
       /*
         In the menu, we only fetch listed pages,

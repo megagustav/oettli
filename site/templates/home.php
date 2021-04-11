@@ -27,7 +27,7 @@
     <div class="gutter-sizer"></div>
     <li class="grid-item <?= $album->width() ?>">
       <a href="<?= $album->url() ?>">
-        <figure class="content">
+        <figure class="content" style="margin-top: <?= $album->spacey() ?>em; margin-left: <?= $album->spacex() ?>em;">
           <?php if ($album->downloads()->toFile()): ?>
             <video width="100%" height="auto" autoplay loop muted playsinline>
               <source src="<?= $album->downloads()->toFile() ?>" type="video/mp4">
@@ -37,7 +37,7 @@
           <?php elseif ($cover = $album->cover()): ?>
           <?= $cover->resize(1024, 1024) ?>
           <?php endif ?>
-          <figcaption>
+          <figcaption style="margin-top: <?= $album->spacey() ?>em; margin-left: <?= $album->spacex() ?>em;">
             <span>
               <span class="example-name"><?= $album->title()->html() ?></span>
             </span>

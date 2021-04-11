@@ -52,7 +52,7 @@
   }
 }
 
-@media screen and (min-width: 80rem) {
+@media screen and (min-width: 60rem) {
   .grid-sizer, .grid-item {
     width: 30.666%;
   }
@@ -61,7 +61,7 @@
   }
 }
 
-@media screen and (min-width: 120rem) {
+@media screen and (min-width: 80rem) {
   .grid-sizer, .grid-item {
     width: 16.8%;
   }

@@ -20,7 +20,7 @@ Width: grid-item--width2
 
 ----
 
-Spacey: 4
+Spacey: 0
 
 ----
 

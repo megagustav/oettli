@@ -2,9 +2,37 @@ Title: Ocean
 
 ----
 
+Layout: []
+
+----
+
 Cover:
 
 - island-from-above.jpg
+
+----
+
+Downloads: 
+
+----
+
+Width: grid-item--width2
+
+----
+
+Spacex: 0
+
+----
+
+Spacey: 0
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 

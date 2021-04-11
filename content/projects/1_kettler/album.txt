@@ -1,0 +1,35 @@
+Title: Kettler
+
+----
+
+Layout: []
+
+----
+
+Cover:
+
+- image-asset-7.jpeg
+
+----
+
+Downloads: 
+
+----
+
+Width: grid-item
+
+----
+
+Spacex: 0
+
+----
+
+Spacey: 0
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

@@ -14,9 +14,19 @@ var grid = new Masonry( '.home-grid', {
   gutter: '.gutter-sizer',
   percentPosition: true,
   transitionDuration: '0.2s',
-  //stagger: '0.03s'
+  horizontalOrder: true
 })
 
-$grid.imagesLoaded().progress( function() {
-  $grid.masonry('layout');
+// Look for .hamburger
+var hamburger = document.querySelector(".hamburger");
+var nav = document.querySelector(".menu-nav");
+// On click
+hamburger.addEventListener("click", function() {
+  // Toggle class "is-active"
+  hamburger.classList.toggle("is-active");
+  if (nav.style.display === "block") {
+    nav.style.display = "none";
+  } else {
+    nav.style.display = "block";
+  }
 });

@@ -12,7 +12,8 @@
   --color-text: var(--color-black);
   --color-text-grey: var(--color-grey);
   --color-background: var(--color-white);
-  --color-oettli:           #a38671;
+  --color-oettli:           blue;
+  //--color-oettli:           #a38671;
   --color-code-light-grey:  #cacbd1;
   --color-code-comment:     #a9aaad;
   --color-code-white:       #c5c9c6;
@@ -107,46 +108,67 @@ small {
   color: var(--color-text-grey);
 }
 
-.header {
+.main {
+  margin-top: 6rem;
   position: relative;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin-right: -1rem;
-  margin-left: -1rem;
+  z-index: 1;
+}
+
+.header {
+  position: fixed;
   margin-bottom: 3rem;
+  z-index: 2;
 }
 
 .logo {
-  padding: 1rem 1rem 1rem 0;
-  display: flex;
-  align-items: center;
-  font-weight: 600;
+  padding: 0;
   cursor: pointer;
 }
 
 .logo svg {
-  height: 1.9rem;
+  height: 1.2rem;
+}
+
+button.hamburger {
+  position: fixed;
+  right: var(--padding);
+}
+
+.hamburger--accessible {
+  display: inline;
+}
+.hamburger--accessible .hamburger-box {
+  display: inline-block;
+  vertical-align: middle;
+}
+.hamburger-label {
+  font-weight: 600;
+  display: inline-block;
+  margin-left: 5px;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+
+.menu-nav {
+  display: none;
 }
 
 .menu {
-  display: flex;
+  position: fixed;
+  right: var(--padding);
+  margin-top: 3rem;
+  background: white;
+  padding: 1rem 0 0 1rem;
 }
 .menu a {
-  padding: 2rem 1rem 0rem;
+  padding: 0 0 1rem;
   display: block;
   text-transform: uppercase;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   letter-spacing: 0.07rem;
 }
 .menu a[aria-current] {
   color: var(--color-oettli);
-}
-.menu a:first-child {
-  padding-left: 0;
-}
-.menu a:last-child {
-  padding-right: 0;
 }
 .social {
   display: flex;
@@ -188,12 +210,11 @@ small {
   margin: 0 auto;
 }
 
-.header, .footer {
+.footer {
   max-width: 71.5rem;
 }
 
 .header {
-  max-width: 71.5rem;
   margin: 0 auto 3rem;
 }
 

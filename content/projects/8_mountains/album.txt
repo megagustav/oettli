@@ -2,9 +2,29 @@ Title: Mountains
 
 ----
 
+Layout: []
+
+----
+
 Cover:
 
 - probably-photoshopped.jpg
+
+----
+
+Downloads: 
+
+----
+
+Width: grid-item--width2
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
 
 ----
 
